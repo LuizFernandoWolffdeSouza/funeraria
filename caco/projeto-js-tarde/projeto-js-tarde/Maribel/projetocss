@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pesquisa</title>
+    </head>
+
+
+<body>
+    <input type="text" id="entrada_filme">
+    <input type="button" value="Pesquisar" onclick="pesquisar()">
+    <div id="classificação"></div>
+</body> 
+
+<!-- .containerArea {
+    /*determinar display grid */
+    display: grid;
+    grid-template-columns: 350px;
+    grid-template-rows: auto;
+    /* espaço entre elementos */
+    /* grit-column-grap: 10px;
+            grit-row-gap: 10 px; */
+    /* grit-auto-flow: dense; */
+    gap: 10px 10 px;
+}
+
+.containerArea2 {
+    /*determinar display grid */
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 450px;
+    grid-template-rows: auto;
+    /* espaço entre elementos */
+    /* grit-column-grap: 10px;
+            grit-row-gap: 10 px; */
+    /* grit-auto-flow: dense; */
+    gap: 10px 10 px;
+}
+
+
+gridArea {
+    /* grid-row-start, grid-colun-start,*/
+    grid-area: 1;
+}
+
+.item {
+    background-color: wheat;
+    color: white;
+    border: 1px solid black;
+    text-align: right;
+}
+
+.container2 {
+    /*determinar display grid */
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 50px;
+    /* espaço entre elementos */
+    /* grit-column-grap: 10px;
+            grit-row-gap: 10 px; */
+    /* grit-auto-flow: dense; */
+    gap: 10px 10 px;
+}
+
+gridArea2 {
+    /* grid-row-start, grid-colun-start,*/
+    grid-area: 2;
+}
+
+.item {
+    background-colo:wheat;
+    color: black;
+    border: 1px solid black;
+    text-align: left;
+}
+
+h1 {
+    background-color: wheat;
+    width: 900px;
+    height: 50px;
+    text-align: center;
+    font-size: 50px;
+    border: 75px;
+    font-size: "cursive";
+} -->
+
+<!-- body {
+    margin-left: 140px;
+    margin-top: 110px;
+    padding: 0; 
+    background-image: url("cinema.png");  
+    position: relative ;
+    height: 50vh;
+    width: 75vw;
+    background-size: cover;
+}
+li {
+    border: 1px solid black;
+    background-color: aliceblue;
+    list-style-type: none;
+    display: inline-block;
+    width: 70px;
+    height: 60px;
+    text-align: center; -->

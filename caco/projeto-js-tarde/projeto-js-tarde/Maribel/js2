@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pesquisar</title>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Seja bem vindo!</h2>
+    
+        <input type="text" id="Nome do filme" placeholder="Nome do filme">
+        <input type="button" value="Buscar">
+    </div>
+</body>
+</html>
+
+<style>
+    body {
+        margin-left: 140px;
+        margin-top: 110px;
+        padding: 0; 
+        position: relative ;
+        height: 50vh;
+        width: 75vw;
+        background-size: cover;
+        background-image: url("cinema-360x200.png");
+        background-repeat: no-repeat;
+    }
+    .container h2 {
+        margin: 0 0 30px;
+        padding: 0;
+        color: white;
+        text-align: center;
+    }
+
+    .container {
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        width: 200px;
+        padding: 80px;
+        background-color:black;
+        box box-sizing: border-box;
+    }
+
+</style>
+
